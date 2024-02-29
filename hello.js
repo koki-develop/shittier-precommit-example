@@ -1,4 +1,5 @@
-  const heLLO =	 (name )		=>	 {
- console	 .log	 (`Hello, ${name		}!`		) ;	}
+	const HELlo	 =		(name	 ) =>  {
+	console	 .log	 (`Hello, ${name  }!`  )	 ;	}
 
-	heLLO		('World'	)  ;
+	 HELlo ('World' )	;
+	HELlo	("koki-develop"	)	;
